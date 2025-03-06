@@ -1,0 +1,1 @@
+Developed a comprehensive Police Management System using Java Swing for the graphical user interface and JDBC for seamless database connectivity with SQL, implementing features like Authentication , compliant generation, case tracking, criminal database handling, and FIR generation, ensuring efficient data management and retrieval.
